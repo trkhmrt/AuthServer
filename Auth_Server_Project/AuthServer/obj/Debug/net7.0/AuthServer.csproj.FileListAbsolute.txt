@@ -46,3 +46,5 @@
 /Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
 /Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer/bin/Debug/net7.0/SharedLibrary.dll
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer/bin/Debug/net7.0/SharedLibrary.pdb

@@ -426,7 +426,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.17"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.17",
+          "SharedLibrary": "1.0.0"
         },
         "compile": {
           "bin/placeholder/AuthServer.Core.dll": {}
@@ -460,6 +461,19 @@
         "runtime": {
           "bin/placeholder/AuthServer.Service.dll": {}
         }
+      },
+      "SharedLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SharedLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharedLibrary.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -1270,6 +1284,11 @@
       "type": "project",
       "path": "../AuthServer.Service/AuthServer.Service.csproj",
       "msbuildProject": "../AuthServer.Service/AuthServer.Service.csproj"
+    },
+    "SharedLibrary/1.0.0": {
+      "type": "project",
+      "path": "../SharedLibrary/SharedLibrary.csproj",
+      "msbuildProject": "../SharedLibrary/SharedLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
