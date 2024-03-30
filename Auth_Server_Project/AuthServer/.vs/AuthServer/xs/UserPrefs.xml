@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{9718B5BB-4A78-48EC-9AD8-61EE3A29246D}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AuthServer.Service FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AuthServer.Core FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MiniApp1.API FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AuthServer.Data FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AuthServer PreferredExecutionTarget="/Applications/Brave Browser.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MiniApp3.API FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AuthServer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MiniApp2.API FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SharedLibrary FirstBuild="True" />
+</Properties>

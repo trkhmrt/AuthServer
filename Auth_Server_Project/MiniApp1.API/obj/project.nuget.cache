@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HViICyRs8MgSg1Ezi24qQCL7xHzoUGZKMuLO1XEm8NSaS2y7zyJjHtEo5Y1k6y726vb2TbR0B+7JkFTjLqIJjg==",
+  "success": true,
+  "projectFilePath": "/Users/tarikhamarat/Desktop/Auth_Server_Project/MiniApp1.API/MiniApp1.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/tarikhamarat/.nuget/packages/microsoft.aspnetcore.openapi/7.0.17/microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/bin/Debug/net7.0/AuthServer.Core.deps.json
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/bin/Debug/net7.0/AuthServer.Core.dll
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/bin/Debug/net7.0/AuthServer.Core.pdb
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.csproj.AssemblyReference.cache
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.AssemblyInfoInputs.cache
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.AssemblyInfo.cs
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.csproj.CoreCompileInputs.cache
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.dll
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/obj/Debug/net7.0/refint/AuthServer.Core.dll
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.pdb
+/Users/tarikhamarat/Desktop/Auth_Server_Project/AuthServer.Core/obj/Debug/net7.0/ref/AuthServer.Core.dll

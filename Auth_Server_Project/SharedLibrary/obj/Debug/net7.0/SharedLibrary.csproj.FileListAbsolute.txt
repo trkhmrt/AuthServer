@@ -1,0 +1,12 @@
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/bin/Debug/net7.0/SharedLibrary.deps.json
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/bin/Debug/net7.0/SharedLibrary.dll
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/bin/Debug/net7.0/SharedLibrary.pdb
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/obj/Debug/net7.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/obj/Debug/net7.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/obj/Debug/net7.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/obj/Debug/net7.0/SharedLibrary.AssemblyInfo.cs
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/obj/Debug/net7.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/obj/Debug/net7.0/SharedLibrary.dll
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/obj/Debug/net7.0/refint/SharedLibrary.dll
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/obj/Debug/net7.0/SharedLibrary.pdb
+/Users/tarikhamarat/Desktop/Auth_Server_Project/SharedLibrary/obj/Debug/net7.0/ref/SharedLibrary.dll
